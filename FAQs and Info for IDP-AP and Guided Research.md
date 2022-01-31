@@ -20,15 +20,16 @@
 * Also, if you do it at an (external) startup or company, always VERY CLEARLY define your project scope, so that you won't become a slave for them and do unnecessary unpaid work (e.g. sanitising data). So if they ask you to do x or y, just refer to the project scope and that it's not part of it.
 
 **3.** Can I get paid by the startup?
-* Generally, no (almost 90%)
+* Generally, no (almost 90%), if so shush ;)
 
 **4.** Guided Research:
 * B1.2 Advanced Topics in Data Engineering, B2.2 Special Topics in Analytics: Modules earning at least 25 Credits must be chosen from these two areas, with one module being IN2169 "Guided Research" or IN2328 "Application Project (Project Work)".
 
 ## About IDP/AP project at Tum DI (Data Innovation) Lab:
 
-1. Applications are open early! For winter semester: around 20 January.
-2. What are the chances of getting selected in DI LAB for an IDP/AP?
+**1.** Applications open early! For winter semester: around 20 January.
+
+**2.** What are the chances of getting selected in DI LAB for an IDP/AP?
   + They are desperate for people to apply, so you have a really good chance.
   + But if you only apply for the Amazon, BMW projects etc. it might be hard to be accepted, since literally everyone will apply for that.
 
@@ -39,7 +40,7 @@
 
 **2.** AP cannot be done at other unis in most cases, since unlike IDP other universities usually do not have something comparable to AP. If they somehow do, Alexander said that you can contact them to see if (in this exceptional case) something is still possible
 
-**3.** Informatics' IDP is similar to AP but not the same, check the document: **"Let's talk about Application Project DEA.pdf"**.
+**3.** Informatics' IDP is similar to AP but not the same, check this pdf document: [Let's talk about Application Project DEA](./Lets_talk_about_Application_Project_DEA).
 
 ## Disclaimer
 
