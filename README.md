@@ -1,1 +1,1 @@
-# TUM-DEA-Infopoint
+FAQs and Info for IDP-AP and Guided Research.md
